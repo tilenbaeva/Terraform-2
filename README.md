@@ -6,7 +6,7 @@ This repository includes simple *.tf files to create instance remotely in AWS.
 
 # provider.tf --> file is one of 1st files you should create before creating anything in terraform to create instance and other services in AWS. In provider.tf file region specified, s3 bucket.
 
-# vpc.tf --> file creates VPC.
+# vpc.tf -->  file creates VPC.
 
 # rt.tf --> file creates AWS Route Table.
 
